@@ -1,0 +1,5 @@
+H:/TALLER UNO I/1a_PROYECT/PROYECT/cmake-build-debug/CMakeFiles/CarmenSandiego.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/cmake-build-debug/CMakeFiles/package.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/cmake-build-debug/CMakeFiles/package_source.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

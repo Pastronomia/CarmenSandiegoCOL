@@ -1,0 +1,354 @@
+Estructura de directorios:
+├── .cmake
+│   └── api
+│       └── v1
+│           ├── query
+│           │   ├── cache-v2
+│           │   ├── cmakeFiles-v1
+│           │   ├── codemodel-v2
+│           │   └── toolchains-v1
+│           └── reply
+│               ├── cache-v2-6ade88afea3dac0a5b60.json
+│               ├── cmakeFiles-v1-5960018119144a825fce.json
+│               ├── codemodel-v2-84e93c0c6f49cfa52fe8.json
+│               ├── directory-.-Debug-d0094a50bb2071803777.json
+│               ├── index-2024-10-17T18-11-50-0765.json
+│               ├── target-CarmenSandiego-Debug-0902410e724609e95410.json
+│               ├── target-new_target-Debug-23bfc7cded900e7ca501.json
+│               └── toolchains-v1-0fe24d3b27174199f74f.json
+├── .idea
+│   ├── .name
+│   ├── editor.xml
+│   ├── misc.xml
+│   ├── modules.xml
+│   ├── proyecto_alpha.iml
+│   ├── vcs.xml
+│   └── workspace.xml
+├── .ninja_deps
+├── .ninja_log
+├── CMakeCXXCompilerId.cpp
+├── CMakeFiles
+│   ├── 3.29.6
+│   │   ├── CMakeCCompiler.cmake
+│   │   ├── CMakeCCompiler.cmake.tmp
+│   │   ├── CMakeCXXCompiler.cmake
+│   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   ├── CMakeRCCompiler.cmake
+│   │   ├── CMakeSystem.cmake
+│   │   ├── CompilerIdC
+│   │   │   ├── CMakeCCompilerId.c
+│   │   │   ├── a.exe
+│   │   │   └── tmp
+│   │   └── CompilerIdCXX
+│   │       ├── CMakeCXXCompilerId.cpp
+│   │       ├── a.exe
+│   │       └── tmp
+│   ├── 3.30.3
+│   │   ├── CMakeCCompiler.cmake
+│   │   ├── CMakeCXXCompiler.cmake
+│   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   ├── CMakeRCCompiler.cmake
+│   │   ├── CMakeSystem.cmake
+│   │   ├── CompilerIdC
+│   │   │   ├── CMakeCCompilerId.c
+│   │   │   ├── a.exe
+│   │   │   └── tmp
+│   │   └── CompilerIdCXX
+│   │       ├── CMakeCXXCompilerId.cpp
+│   │       ├── a.exe
+│   │       └── tmp
+│   ├── CMakeConfigureLog.yaml
+│   ├── CarmenSandiego.dir
+│   │   ├── core
+│   │   └── src
+│   │       ├── database.cpp.obj
+│   │       └── multimedia.cpp.obj
+│   ├── TargetDirectories.txt
+│   ├── clion-environment.txt
+│   ├── cmake.check_cache
+│   ├── new_target.dir
+│   │   └── core
+│   ├── pkgRedirects
+│   ├── rules.ninja
+│   └── rules.ninja.tmp76ec7
+├── CMakeLists.txt
+├── CPackConfig.cmake
+├── CPackSourceConfig.cmake
+├── CarmenSandiego.exe
+├── Multimedia
+│   ├── Betosecreto.png
+│   ├── CSD.mp3
+│   ├── CSD.png
+│   ├── DetectiveEficiente.png
+│   ├── DetectiveExperto.png
+│   ├── DetectiveJunior.png
+│   ├── DetectiveSenior.png
+│   ├── EllaBella.png
+│   ├── Inspector.png
+│   ├── Medallafinal.png
+│   ├── Mindy Ana Son.png
+│   ├── Moonabomber.png
+│   └── MultimediaHandler.cpp
+├── PROYECT.rar
+├── README.md
+├── Testing
+│   └── Temporary
+│       └── LastTest.log
+├── build.ninja
+├── build.ninja.tmp6c625
+├── carmen_sandiego.db
+├── cmake-build-debug
+│   ├── .cmake
+│   │   └── api
+│   │       └── v1
+│   │           ├── query
+│   │           │   ├── cache-v2
+│   │           │   ├── cmakeFiles-v1
+│   │           │   ├── codemodel-v2
+│   │           │   └── toolchains-v1
+│   │           └── reply
+│   │               ├── cache-v2-ab4cab653ea5dec4289a.json
+│   │               ├── cmakeFiles-v1-6f8153f958c4d0903b60.json
+│   │               ├── codemodel-v2-3e6f31acc87ca370f85a.json
+│   │               ├── directory-.-Debug-d0094a50bb2071803777.json
+│   │               ├── index-2024-10-17T14-12-51-0232.json
+│   │               ├── target-CarmenSandiego-Debug-bc673506eca6ac057bbd.json
+│   │               └── toolchains-v1-2880cbcb8de12442f708.json
+│   ├── CMakeCache.txt
+│   ├── CMakeCache.txt.tmp88c38
+│   ├── CMakeFiles
+│   │   ├── 3.29.6
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeRCCompiler.cmake
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── CMakeCCompilerId.c
+│   │   │   │   ├── a.exe
+│   │   │   │   └── tmp
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       ├── a.exe
+│   │   │       └── tmp
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CarmenSandiego.dir
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── DependInfo.cmake.tmp176fb
+│   │   │   ├── build.make
+│   │   │   ├── build.make.tmp6d211
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── compiler_depend.make
+│   │   │   ├── compiler_depend.ts
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── flags.make.tmpe2d55
+│   │   │   ├── includes_CXX.rsp
+│   │   │   ├── link.txt
+│   │   │   ├── linkLibs.rsp
+│   │   │   ├── objects1.rsp
+│   │   │   ├── progress.make
+│   │   │   └── src
+│   │   ├── Makefile.cmake
+│   │   ├── Makefile2
+│   │   ├── TargetDirectories.txt
+│   │   ├── clion-Debug-log.txt
+│   │   ├── clion-environment.txt
+│   │   ├── cmake.check_cache
+│   │   ├── new_target.dir
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── build.make
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── compiler_depend.make
+│   │   │   ├── compiler_depend.ts
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── includes_CXX.rsp
+│   │   │   ├── link.txt
+│   │   │   ├── linkLibs.rsp
+│   │   │   ├── objects1.rsp
+│   │   │   ├── progress.make
+│   │   │   └── src
+│   │   ├── pkgRedirects
+│   │   └── progress.marks
+│   ├── CPackConfig.cmake
+│   ├── CPackSourceConfig.cmake
+│   ├── Makefile
+│   └── cmake_install.cmake
+├── cmake-build-maker
+│   ├── .cmake
+│   │   └── api
+│   │       └── v1
+│   │           ├── query
+│   │           │   ├── cache-v2
+│   │           │   ├── cmakeFiles-v1
+│   │           │   ├── codemodel-v2
+│   │           │   └── toolchains-v1
+│   │           └── reply
+│   │               ├── cache-v2-6734288d51683422012f.json
+│   │               ├── cmakeFiles-v1-f7c27fb66474498097bb.json
+│   │               ├── codemodel-v2-e1161075f8149fcb2d11.json
+│   │               ├── directory-.-Debug-d0094a50bb2071803777.json
+│   │               ├── index-2024-10-18T22-34-07-0378.json
+│   │               ├── target-CarmenSandiego-Debug-81ea5f7b70b7ce26560f.json
+│   │               └── toolchains-v1-2880cbcb8de12442f708.json
+│   ├── .ninja_deps
+│   ├── .ninja_log
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.30.5
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeRCCompiler.cmake
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── CMakeCCompilerId.c
+│   │   │   │   ├── a.exe
+│   │   │   │   └── tmp
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       ├── a.exe
+│   │   │       └── tmp
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── CarmenSandiego.dir
+│   │   │   ├── Multimedia
+│   │   │   │   └── MultimediaHandler.cpp.obj
+│   │   │   ├── core
+│   │   │   │   ├── PistaDAO.cpp.obj
+│   │   │   │   └── SecuazDAO.cpp.obj
+│   │   │   └── src
+│   │   │       ├── CarmenSandiegoApp.cpp.obj
+│   │   │       ├── DatabaseHandler.cpp.obj
+│   │   │       └── game_logic.cpp.obj
+│   │   ├── TargetDirectories.txt
+│   │   ├── clion-MAKER-log.txt
+│   │   ├── clion-environment.txt
+│   │   ├── cmake.check_cache
+│   │   ├── pkgRedirects
+│   │   └── rules.ninja
+│   ├── CPackConfig.cmake
+│   ├── CPackSourceConfig.cmake
+│   ├── Testing
+│   │   └── Temporary
+│   │       └── LastTest.log
+│   ├── build.ninja
+│   └── cmake_install.cmake
+├── cmake_install.cmake
+├── cmake_install.cmake.tmpd122a
+├── config
+│   └── app_config.hpp
+├── contenido_proyecto.txt
+├── core
+│   ├── LocalidadDAO.hpp
+│   ├── MultimediaHandler.hpp
+│   ├── PistaDAO.cpp
+│   ├── PistaDAO.hpp
+│   ├── SecuazDAO.cpp
+│   ├── SecuazDAO.hpp
+│   ├── database.hpp
+│   ├── game_controller.cpp
+│   ├── game_controller.hpp
+│   ├── game_service.cpp
+│   └── game_service.hpp
+├── dao
+│   ├── BaseDAO.hpp
+│   ├── BaseDao.cpp
+│   ├── LocalidadDAO.cpp
+│   ├── LocalidadDAO.hpp
+│   ├── MisionDAO.cpp
+│   ├── MisionDAO.hpp
+│   ├── PartidaDAO.cpp
+│   ├── PartidaDAO.hpp
+│   ├── PistaDAO.cpp
+│   ├── PistaDAO.hpp
+│   ├── SecuazDAO.cpp
+│   ├── SecuazDAO.hpp
+│   ├── UsuarioDAO.cpp
+│   ├── UsuarioDAO.hpp
+│   ├── database_initialization.cpp
+│   └── database_initialization.hpp
+├── estructura.txt
+├── fixer.py
+├── include
+│   ├── CarmenSandiegoApp.hpp
+│   ├── DatabaseHandler.hpp
+│   ├── game_logic.hpp
+│   ├── ui.cpp
+│   └── ui.h
+├── lector.py
+├── misc
+│   └── CMakeCXXCompilerId.cpp
+├── models
+│   ├── Localidad.cpp
+│   ├── Localidad.hpp
+│   ├── Mision.cpp
+│   ├── Mision.hpp
+│   ├── Partida.cpp
+│   ├── Partida.hpp
+│   ├── Pista.cpp
+│   ├── Pista.hpp
+│   ├── Secuaz.cpp
+│   ├── Secuaz.hpp
+│   ├── Usuario.cpp
+│   └── Usuario.hpp
+├── print_directory_tree.py
+├── root
+│   └── .idea
+│       ├── .gitignore
+│       ├── editor.xml
+│       ├── modules.xml
+│       ├── root.iml
+│       └── workspace.xml
+├── src
+│   ├── .idea
+│   │   ├── editor.xml
+│   │   ├── modules.xml
+│   │   ├── src.iml
+│   │   └── workspace.xml
+│   ├── CarmenSandiegoApp.cpp
+│   ├── DatabaseHandler.cpp
+│   ├── Usuario.cpp
+│   ├── Usuario.hpp
+│   ├── app
+│   │   ├── WelcomeWindow.cpp
+│   │   ├── WelcomeWindow.hpp
+│   │   └── main.cpp
+│   ├── assets
+│   │   └── audio
+│   │       └── CSD.mp3
+│   ├── core
+│   │   ├── game_controller.cpp
+│   │   ├── game_controller.hpp
+│   │   ├── game_logic.cpp
+│   │   └── game_logic.hpp
+│   ├── database.cpp
+│   ├── database.hpp
+│   ├── game_logic.cpp
+│   ├── main.cpp
+│   ├── main_presentacion.ppc
+│   ├── multimedia.cpp
+│   ├── multimedia.hpp
+│   ├── ui.cpp
+│   └── ui.hpp
+├── torquemada.py
+├── tts
+│   ├── TTSConfig.cpp
+│   ├── TTSConfig.hpp
+│   ├── TTSManager.cpp
+│   └── TTSManager.hpp
+└── ui
+    ├── game_window.cpp
+    ├── game_window.hpp
+    ├── main_window.cpp
+    ├── main_window.hpp
+    ├── presentation_window.cpp
+    ├── presentation_window.hpp
+    ├── registration_window.cpp
+    ├── registration_window.hpp
+    ├── result_window.cpp
+    └── result_window.hpp

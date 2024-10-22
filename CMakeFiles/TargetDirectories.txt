@@ -1,0 +1,6 @@
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/CarmenSandiego.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/new_target.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/package.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/package_source.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/edit_cache.dir
+H:/TALLER UNO I/1a_PROYECT/PROYECT/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v6
+498	83451	7508914738081039	CMakeFiles/CarmenSandiego.dir/src/database.cpp.obj	9eb390e262b8aeb9
+530	83474	7508914738400198	CMakeFiles/CarmenSandiego.dir/src/multimedia.cpp.obj	12f26e74087f479c
+7791	20075	7505696995622803	CarmenSandiego.exe	70da78a4a28e2540
+5	101019	7508918525065715	build.ninja	bc63a6724f4a0ff3
+4	181604	7506099071608490	CMakeFiles/CarmenSandiego.dir/src/main.cpp.obj	29508a09b9dee7d7
+52	40155	7508919988742688	CMakeFiles/CarmenSandiego.dir/src/multimedia.cpp.obj	26e8e20f22cedcdf
+35	50333	7508919988583115	CMakeFiles/CarmenSandiego.dir/src/database.cpp.obj	4c940d558395f799
+79	31048	7508942046317695	CMakeFiles/CarmenSandiego.dir/src/multimedia.cpp.obj	26e8e20f22cedcdf
+67	58463	7508942046207985	CMakeFiles/CarmenSandiego.dir/src/database.cpp.obj	4c940d558395f799

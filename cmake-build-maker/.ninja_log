@@ -1,0 +1,7 @@
+# ninja log v6
+21	585	7509933228101769	CMakeFiles/CarmenSandiego.dir/src/game_logic.cpp.obj	831db9ccbf9ff2d
+592	672	7509933233816433	CMakeFiles/CarmenSandiego.dir/core/SecuazDAO.cpp.obj	d64e30429e919e43
+23	580	7509933228121720	CMakeFiles/CarmenSandiego.dir/src/DatabaseHandler.cpp.obj	9fa2952e9a4decd6
+552	1336	7509893207107461	CMakeFiles/CarmenSandiego.dir/core/PistaDAO.cpp.obj	87a1b5b7116e15cd
+672	1342	7509933234614309	CMakeFiles/CarmenSandiego.dir/Multimedia/MultimediaHandler.cpp.obj	d8b08f5b549cac6
+14	3763	7513009242881228	CMakeFiles/CarmenSandiego.dir/src/CarmenSandiegoApp.cpp.obj	6c4c2a1427853598

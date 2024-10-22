@@ -1,0 +1,91 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"H:/TALLER UNO I/T1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+						"H:/TALLER UNO I/T1/mingw64/include",
+						"H:/TALLER UNO I/T1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "H:/TALLER UNO I/T1/mingw64/bin/gcc.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"H:/TALLER UNO I/T1/mingw64/include/c++/14.2.0",
+						"H:/TALLER UNO I/T1/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+						"H:/TALLER UNO I/T1/mingw64/include/c++/14.2.0/backward",
+						"H:/TALLER UNO I/T1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+						"H:/TALLER UNO I/T1/mingw64/include",
+						"H:/TALLER UNO I/T1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "H:/TALLER UNO I/T1/mingw64/bin/g++.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "H:/TALLER UNO I/T1/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
