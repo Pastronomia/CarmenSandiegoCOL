@@ -1,0 +1,1 @@
+  -LH:/TALLER~1/T1/mingw64/bin/../lib  -LH:/TALLER~1/T1/mingw64/lib  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
